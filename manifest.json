@@ -1,7 +1,7 @@
 {
-  "name": "AEM Component Finder",
+  "name": "Component Finder - Adobe Classic",
   "description": "A tool to help identify which Adobe Classic component has been used on the page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "content_scripts": [{
     "css": ["styles.css"],
